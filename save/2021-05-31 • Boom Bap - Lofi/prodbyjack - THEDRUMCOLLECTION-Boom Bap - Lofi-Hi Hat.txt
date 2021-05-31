@@ -1,0 +1,11 @@
+### 11 couples trouvés # [PS] Thick Hi Hat (lofi).wav <--> [PS] Wide Hi Hat (lofi).wav : 1171.6 
+# [PS] Perc-ish Hi Hat (lofi).wav <--> [PS] Unique Hi Hat (lofi).wav :   0.0 
+# [PS] Hard Hi Hat (lofi).wav <--> [PS] Thick Hi Hat (lofi).wav : 1092.4 
+# [PS] Low Hi Hat (lofi).wav <--> [PS] Wide Hi Hat (lofi).wav : 1088.0 
+# [PS] Low Hi Hat (lofi).wav <--> [PS] Thick Hi Hat (lofi).wav : 1146.7 
+# [PS] Low Hi Hat (lofi).wav <--> [PS] Hard Hi Hat (lofi).wav : 1002.4 
+# [PS] Dist Hi Hat (lofi).wav <--> [PS] Harsh Hi Hat (lofi).wav : 1150.0 
+# [PS] Dirty Hi Hat (lofi).wav <--> [PS] Oldie Hi Hat (lofi).wav : 874.5 
+# [PS] Airy Hi Hat (lofi).wav <-->    Airy Hi Hat (lofi).wav :  27.1 
+# Classic Hi Hat (lofi).wav <--> [PS] Classic Hi Hat (lofi).wav :  93.3 
+# Filtered Hi Hat (lofi).wav <--> [PS] Filtered Hi Hat (lofi).wav : 320.7 
