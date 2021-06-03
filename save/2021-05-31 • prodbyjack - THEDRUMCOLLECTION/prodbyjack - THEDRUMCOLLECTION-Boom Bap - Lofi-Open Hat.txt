@@ -1,5 +1,0 @@
-### 4 couples trouvés ###
-# [PS] Crash Open Hat (lofi).wav <--> [PS] Alternate Open Hat (lofi).wav :   0.0 
-#    Hi Open Hat (lofi).wav <--> [PS] Hi Open Hat (lofi).wav : 462.5 
-# Classic Open Hat (lofi).wav <--> [PS] Classic Open Hat (lofi).wav : 157.1 
-# Break Open Hat (lofi).wav <--> [PS] Break Open Hat (lofi).wav : 484.2 
